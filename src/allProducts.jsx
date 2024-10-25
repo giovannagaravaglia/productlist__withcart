@@ -11,7 +11,7 @@ function AllProducts ({index, qtd, products, setProducts}){
 
         <div className="AllProducts-container">
 
-            <h1 className="AllProducts-title">Desserts Giovanna</h1>
+            <h1 className="AllProducts-title">Desserts</h1>
 
             <div className="AllProducts">
 
